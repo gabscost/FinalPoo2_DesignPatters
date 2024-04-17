@@ -2,12 +2,12 @@
 
 Este sistema fornece uma plataforma completa para gerenciar cursos online, facilitando a administração dos cursos, a transação de pagamentos e a autenticação de usuários. Ele pode ser usado por instituições educacionais, empresas de treinamento ou qualquer organização que deseje oferecer cursos online aos seus usuários.
 
-![image](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/031aff44-6a01-4a5b-a8ca-85b95a80d389)
-![image](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/697fc12c-7c90-4a62-bab1-db43a4b22a01)
-![image](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/cb1464fd-1186-4576-b538-2712609d472a)
+![Tela Login](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/031aff44-6a01-4a5b-a8ca-85b95a80d389)
+![Tela Cadastro](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/697fc12c-7c90-4a62-bab1-db43a4b22a01)
+![Portal](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/cb1464fd-1186-4576-b538-2712609d472a)
 
-![image](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/9a049bf4-b1d5-4b3a-bff8-3c5cb3754fac)
-![image](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/8a8b77f5-5ab0-432d-bee3-08b0031b33cd)
+![SeletorCurso](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/9a049bf4-b1d5-4b3a-bff8-3c5cb3754fac)
+![FormaPagamento](https://github.com/gabscost/FinalPoo2_DesignPatters/assets/104831757/8a8b77f5-5ab0-432d-bee3-08b0031b33cd)
 
 ## Padrões de Projeto
 
